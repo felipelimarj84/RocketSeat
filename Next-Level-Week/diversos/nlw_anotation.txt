@@ -1,14 +1,3 @@
-NodeJs
-React Native
-AWS
-Docker
-MongoDb
-HTML5 e CSS
-gitFlow
-GitHub
-
-==================================================================================
-
 NEXT LEVEL WEEK
 
 npm init -y (cria package.json padrão)
